@@ -1,0 +1,14 @@
+C:\Users\alegu\source\repos\inf04_2\inf04_2\bin\Debug\net8.0\inf04_2.exe
+C:\Users\alegu\source\repos\inf04_2\inf04_2\bin\Debug\net8.0\inf04_2.deps.json
+C:\Users\alegu\source\repos\inf04_2\inf04_2\bin\Debug\net8.0\inf04_2.runtimeconfig.json
+C:\Users\alegu\source\repos\inf04_2\inf04_2\bin\Debug\net8.0\inf04_2.dll
+C:\Users\alegu\source\repos\inf04_2\inf04_2\bin\Debug\net8.0\inf04_2.pdb
+C:\Users\alegu\source\repos\inf04_2\inf04_2\obj\Debug\net8.0\inf04_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alegu\source\repos\inf04_2\inf04_2\obj\Debug\net8.0\inf04_2.AssemblyInfoInputs.cache
+C:\Users\alegu\source\repos\inf04_2\inf04_2\obj\Debug\net8.0\inf04_2.AssemblyInfo.cs
+C:\Users\alegu\source\repos\inf04_2\inf04_2\obj\Debug\net8.0\inf04_2.csproj.CoreCompileInputs.cache
+C:\Users\alegu\source\repos\inf04_2\inf04_2\obj\Debug\net8.0\inf04_2.dll
+C:\Users\alegu\source\repos\inf04_2\inf04_2\obj\Debug\net8.0\refint\inf04_2.dll
+C:\Users\alegu\source\repos\inf04_2\inf04_2\obj\Debug\net8.0\inf04_2.pdb
+C:\Users\alegu\source\repos\inf04_2\inf04_2\obj\Debug\net8.0\inf04_2.genruntimeconfig.cache
+C:\Users\alegu\source\repos\inf04_2\inf04_2\obj\Debug\net8.0\ref\inf04_2.dll
