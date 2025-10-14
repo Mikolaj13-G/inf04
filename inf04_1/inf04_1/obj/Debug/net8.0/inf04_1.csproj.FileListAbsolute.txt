@@ -1,0 +1,14 @@
+C:\Users\alegu\source\repos\inf04_1\inf04_1\bin\Debug\net8.0\inf04_1.exe
+C:\Users\alegu\source\repos\inf04_1\inf04_1\bin\Debug\net8.0\inf04_1.deps.json
+C:\Users\alegu\source\repos\inf04_1\inf04_1\bin\Debug\net8.0\inf04_1.runtimeconfig.json
+C:\Users\alegu\source\repos\inf04_1\inf04_1\bin\Debug\net8.0\inf04_1.dll
+C:\Users\alegu\source\repos\inf04_1\inf04_1\bin\Debug\net8.0\inf04_1.pdb
+C:\Users\alegu\source\repos\inf04_1\inf04_1\obj\Debug\net8.0\inf04_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alegu\source\repos\inf04_1\inf04_1\obj\Debug\net8.0\inf04_1.AssemblyInfoInputs.cache
+C:\Users\alegu\source\repos\inf04_1\inf04_1\obj\Debug\net8.0\inf04_1.AssemblyInfo.cs
+C:\Users\alegu\source\repos\inf04_1\inf04_1\obj\Debug\net8.0\inf04_1.csproj.CoreCompileInputs.cache
+C:\Users\alegu\source\repos\inf04_1\inf04_1\obj\Debug\net8.0\inf04_1.dll
+C:\Users\alegu\source\repos\inf04_1\inf04_1\obj\Debug\net8.0\refint\inf04_1.dll
+C:\Users\alegu\source\repos\inf04_1\inf04_1\obj\Debug\net8.0\inf04_1.pdb
+C:\Users\alegu\source\repos\inf04_1\inf04_1\obj\Debug\net8.0\inf04_1.genruntimeconfig.cache
+C:\Users\alegu\source\repos\inf04_1\inf04_1\obj\Debug\net8.0\ref\inf04_1.dll
